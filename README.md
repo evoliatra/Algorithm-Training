@@ -1,1 +1,6 @@
-# Yandex-Algorithm-Training-5.0
+# Тренировка по алгоритмам
+## Языки программирования:
+- Python
+- C/C++
+- JavaScript
+  
